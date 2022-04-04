@@ -1,5 +1,6 @@
 # Trabalho_Final_GCC108
 Prof.: Douglas H. S. Abreu
+
 ●	O trabalho deve ser feito em grupos de no máximo 2 componentes
 ●	Trabalhos entregues após a data limite não serão aceitos
 ●	Data limite de entrega: 27 de Abril de 2022 : 23h55m (não será aceito nenhum commit após a data)
